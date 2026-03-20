@@ -43,3 +43,21 @@ CREATE DATABASE ivules;
 ### AVISO
 
 ⚠️ AVISO: Este software fue desarrollado con fines de investigación académica. Su uso en entornos clínicos reales requiere validación institucional y cumplimiento de normativas locales de salud. Los autores no se hacen responsables por el uso indebido de la herramienta.
+
+## 👩‍💻 Autora
+
+**Leticia Carolina Mendieta Guillén**
+
+- 📧 letiziag294@fpuna.edu.py
+- 🔗 [GitHub](https://github.com/leticiamendieta)
+
+---
+
+## 🙏 Agradecimientos
+
+Este trabajo no habría sido posible sin el apoyo y la colaboración de las siguientes personas e instituciones:
+- **PhD. Christian E. Schaerer** (tutor)
+- **Dra. Isabel Acosta** y equipo de reumatología y bioquímicos - Facultad de Ciencias Médicas (UNA)
+- **Facultad Politécnica (UNA)** - Maestría en TIC
+- **Proyecto PINV01-685**
+- **FEEI-PROCIENCIA-CONACYT**
