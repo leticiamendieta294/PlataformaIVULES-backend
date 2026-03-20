@@ -38,7 +38,8 @@ Este backend proporciona los servicios necesarios para:
 
 ### Base de datos
 
-```sql
 CREATE DATABASE ivules;
+
+### AVISO
 
 ⚠️ AVISO: Este software fue desarrollado con fines de investigación académica. Su uso en entornos clínicos reales requiere validación institucional y cumplimiento de normativas locales de salud. Los autores no se hacen responsables por el uso indebido de la herramienta.
