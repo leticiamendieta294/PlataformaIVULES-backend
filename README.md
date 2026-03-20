@@ -5,7 +5,6 @@
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7.x-brightgreen.svg)](https://spring.io/projects/spring-boot)
 [![Maven](https://img.shields.io/badge/Maven-3.8.x-orange.svg)](https://maven.apache.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![CI/CD](https://github.com/leticiamendieta/ivules-backend/actions/workflows/build.yml/badge.svg)](https://github.com/leticiamendieta/ivules-backend/actions/workflows/build.yml)
 [![Coverage](https://img.shields.io/badge/Coverage-85%25-green.svg)](https://github.com/leticiamendieta/ivules-backend/actions)
 
 ## 📋 Descripción
@@ -37,9 +36,9 @@ Este backend proporciona los servicios necesarios para:
 - Maven 3.8+
 - PostgreSQL 13+
 
-## ⚙️ Configuración
-
 ### Base de datos
 
 ```sql
-CREATE DATABASE ivules_db;
+CREATE DATABASE ivules;
+
+⚠️ AVISO: Este software fue desarrollado con fines de investigación académica. Su uso en entornos clínicos reales requiere validación institucional y cumplimiento de normativas locales de salud. Los autores no se hacen responsables por el uso indebido de la herramienta.
